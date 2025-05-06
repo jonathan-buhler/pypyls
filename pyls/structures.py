@@ -298,7 +298,7 @@ class PLSPermResults(ResDict):
         Resampling array used to permute `S` samples over `P` permutations
     """
     allowed = [
-        'pvals', 'permsamples', 'perm_singval'
+        'pvals', 'permsamples'
     ]
 
 
